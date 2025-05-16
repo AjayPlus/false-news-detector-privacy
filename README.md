@@ -1,1 +1,1 @@
-# propaganda-detector-privacy
+# false-news-detector-privacy
